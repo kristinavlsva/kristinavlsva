@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Kristina</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center"> I work in a children's educational IT technology center</h3>
 
 <!--
 **kristinavlsva/kristinavlsva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
